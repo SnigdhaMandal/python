@@ -1,3 +1,5 @@
+# Snake Water Game
+
 import random
 
 computer = random.choice([-1, 0, 1])
